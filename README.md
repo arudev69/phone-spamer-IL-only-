@@ -1,5 +1,6 @@
 # phone-spamer-IL-only-
-a spamer do a multi job spam call only to israelis number
+a spamer do a multi job spam call only to israelis number (feat dragonxz)
+
 req
 node js
 
